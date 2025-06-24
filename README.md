@@ -71,11 +71,3 @@ This dashboard helps stakeholders:
 
 ---
 
-## 👤 Author
-
-🔹 **Ganesh Shiva Kuppaswamy**  
-🔹 MSc Data Science, Digital Business & AI  
-🔹 📧 ganeshshivakuppaswamy@gmail.com  
-🔹 [🔗 LinkedIn](https://www.linkedin.com/in/ganeshshivakuppaswamy/)
-
----
